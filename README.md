@@ -1,2 +1,2 @@
 # CHEM101.6_final_project
-Final project for CHEM101.6
+My final project for CHEM101.6 will explore MM-GBSA calculations using Amber on a ligand/protein system of the disordered protein alpha-synuclein. I'll be trying to calculate rudimentary free energies of binding for an ensemble of ligand poses in the protein. My goal is to compare the free energy of docked poses of ligands to the original, 200 microsecond MD simulation of the 20 terminal residues in alpha-synuclein. This ligand has been docked with AutoDock Vina, a force-field based docking program, and DiffDock, a diffusion generative model of docking.  
